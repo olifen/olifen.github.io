@@ -1,0 +1,185 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+  background: linear-gradient(to bottom right, white, silver);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  background: linear-gradient(to bottom right, hotpink, purple);
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 10%;
+  width: 100%;
+  margin-top: 54px;
+}
+
+.name {
+  font-size: 60px;
+}
+
+.occupation {
+  font-size: 24px;
+}
+
+.divide-bar {
+  border: 3px solid white;
+  width: 80%;
+}
+
+.icon {
+  height: 30px;
+  margin-right: 4px;
+  margin-top: 20px;
+}
+
+.github-icon {
+  height: 36px;
+  margin-top: 20px;
+}
+
+.portfolio {
+  background: linear-gradient(to bottom right, white, silver);
+  width: 100%;
+  padding: 10%;
+}
+
+.portfolio-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.portfolio-images {
+  margin-top: 50px;
+}
+
+.div-responsive {
+  width: 100%;
+  height: 100%;
+  /*margin-bottom: 35px;*/
+}
+
+.img-responsive {
+  width: 100%;
+  height: 100%;
+  margin: 1.8% auto;
+  display: block;
+}
+
+/*.col-lg-6 {
+  height: 700px;
+}*/
+
+.project-title {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.btn {
+  width: 49%;
+  background: linear-gradient(to bottom right, hotpink, purple);
+  border: none;
+  margin-bottom: 25px;
+
+}
+
+/*.site {
+  position: absolute;
+  bottom: 0;
+  left: 0
+}
+
+.code {
+  position: absolute;
+  bottom: 0;
+  right: 0
+}*/
+
+.about {
+  background: linear-gradient(to bottom right, hotpink, purple);
+  width: 100%;
+  padding: 10%;
+  color: white;
+
+}
+
+.about-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.about-content {
+  margin-top: 50px;
+}
+
+.footer-col {
+  margin: 0 auto;
+}
+
+/*.footer-below, .footer-above {
+  margin-top: 50px;
+}*/
+
+.footer-below {
+  background: linear-gradient(to bottom right, grey, black);
+  color: white;
+  padding: 15px;
+}
+
+.footer-above {
+  /*background: linear-gradient(to bottom right, white, grey);*/
+}
+
+.contact {
+  background: linear-gradient(to bottom right, white, silver);
+  padding: 15px;
+}
+
+.contact-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*.project-image {
+  display: block;
+  margin: auto;
+  height: 180px;
+  padding-top: 20px;
+}*/
+
+/*.heading, .flags, .timetravlr, .elfy, .kickabout, .navbar {
+  color: white;
+  text-align: center;
+}
+
+.flags {
+  background: linear-gradient(to bottom right, red, orange);
+}
+
+.timetravlr {
+  background: linear-gradient(to bottom right, purple, deepskyblue);
+}
+
+.elfy {
+  background: linear-gradient(to bottom right, limegreen, deepskyblue);
+}
+
+.kickabout {
+  background: linear-gradient(to bottom right, yellow, lawngreen);
+}*/
